@@ -18,12 +18,12 @@ public class Main {
             if (numero == numrandom) {
                 System.out.println("LOCOWIN LOCOWIN LOCOWIN LOCOWIN LOCOWIN LOCOWIN");
             } else {
-                System.out.println("Tens un altre oportunitat");
+                System.out.println("Tens un altre oportunitat. Si la aprofites et regalem un premi.");
             }
 
         } while (numero != numrandom);
 
-        System.out.println("Felisidade mi loco, te ganaste este par de ñemita");
+        System.out.println("Felisidade mi loco, te ganaste este par de ñemita.");
 
         System.out.println("NIVEL DO");
 
